@@ -28,7 +28,7 @@
   },
   "require": {
     "php": "^8.3",
-    "composer/semver": "~3.2.0",
+    "composer/semver": "~3.4.3",
     "guzzlehttp/guzzle": "^7.9"
   },
   "require-dev": {
